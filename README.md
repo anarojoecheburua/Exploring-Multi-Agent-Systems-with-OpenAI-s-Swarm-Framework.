@@ -7,7 +7,7 @@ This repository showcases how to build and manage **collaborative AI agents** us
 ## 🐝 What is This About?  
 This project demonstrates:  
 - 🐝 How to define and configure AI agents with specific tasks.  
-- 🐝 How to enable agents to communicate and transfer tasks to one another (handoffs).  
+- 🐝 How to enable agents to communicate and transfer tasks to one another. 
 - 🐝 How to use routines to structure workflows for complex tasks.  
 
 ---
